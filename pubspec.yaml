@@ -15,7 +15,7 @@ dependencies:
   google_api_headers: ^1.0.0
   google_maps_webservice: 
     git: 
-      url: git://github.com/rodrigocsouza/google_maps_webservice.git
+      url: git://github.com/advicebr/google_maps_webservice.git
   http: ^0.13.1
   rxdart: ^0.27.1
 
